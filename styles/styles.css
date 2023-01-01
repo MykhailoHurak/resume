@@ -36,7 +36,9 @@ ul {
 .right_main_content {
     background-color: #FFFFFF;
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
-    padding: 85px 85px;
+    padding-top: 80px;
+    padding-left: 80px;
+    padding-right: 80px;
 }
 
 /* about ===================================================== */
@@ -76,7 +78,7 @@ ul {
 /* projects ================================================== */
 
 .projects {
-    margin-bottom: 50px;
+    margin-bottom: 40px;
 }
 
 .title {
@@ -123,7 +125,7 @@ ul {
 /* work ====================================================== */
 
 .work {
-    margin-bottom: 50px;
+    margin-bottom: 40px;
 }
 
 .work__pozition {
@@ -180,7 +182,7 @@ ul {
 /* education ================================================= */
 
 .education {
-    margin-bottom: 50px;
+    margin-bottom: 40px;
 }
 
 
