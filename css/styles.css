@@ -47,7 +47,7 @@ ul {
 .right_main_content {
     background-color: #FFFFFF;
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
-    padding-top: 80px;
+    padding-top: 40px;
     padding-left: 80px;
     padding-right: 80px;
 }
@@ -226,16 +226,16 @@ ul {
 
 .leftsidebar {
     background-color: #1E2939;
-    padding-top: 40px;
-    width: 370px;
+    padding-top: 20px;
 }
 
 .leftsidebar__photo {
     width: 370px;
+    border-bottom: 16px solid white;
 }
 
 .leftsidebar__box {
-    margin-top: 60px;
+    margin-top: 50px;
     margin-left: 60px;
 }
 
